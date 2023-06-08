@@ -1,7 +1,4 @@
 # Heart-Disease-Prediction
-This Repo contains my Heart Disease Prediction Project, using EDA and 8 ML models - Logistic Regression, SVC, Decision Trees, Random Forest, Gradient Boosting, KNN, Naive Bayes, and XGBoost. The goal: accurate heart disease detection aiding preventive care.
-
-# Heart Disease Prediction Model
 
 The Heart Disease Prediction Model project was a comprehensive exercise in predictive analytics, with the intent of diagnosing heart disease using various clinical parameters. The project utilized machine learning techniques to anticipate heart disease occurrence based on individual health metrics.
 
